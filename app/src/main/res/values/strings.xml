@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProgressDialog</string>
+    <string name="dialogTitle">Progress Dialog</string>
+    <string name="dialogMsg">Please Wait ...</string>
+    <string name="hello_progressdialog">Hello ProgressDialog</string>
+</resources>
